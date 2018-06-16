@@ -1,0 +1,2 @@
+# JFT
+Journal for Traders
